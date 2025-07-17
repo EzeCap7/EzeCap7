@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ2emxxY3lobjgxcG1iYW00aDY1dXgwanc3NnRrMHByeDdsZWhvNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" />
+
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>&nbsp;***About me***
 
 I am a computer engineering student, currently halfway through my degree. I'm currently learning more about computer architecture, databases, and cybersecurity. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
