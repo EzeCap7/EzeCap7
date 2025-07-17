@@ -27,7 +27,7 @@ I am a computer engineering student, currently halfway through my degree. I'm cu
 - Outside tech, 🤸‍♂️ I love doing aerobics gymnastics, 🎮 playing videogames, and 🎵 make and listening to music.
 - 📄 Find me on <a href="https://www.linkedin.com/in/ezequiel-cappella-8a133b349/">LinkedIn</a>.
 - 📷 My <a href="https://www.instagram.com/zeke.cappella/">Instagram</a>!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">ezequielcappella@gmail.com</a>.
+- 📫 Reach out to me at: <a href="ezequielcappella03@gmail.com">ezequielcappella@gmail.com</a>.
 
 ## My Skills Include
 
