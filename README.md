@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I'm currently learning more about computer architecture, databases, and cybersecurity. I love to learn and build something new, productive, innovative and creative.
+I am a computer engineering student at the <a href="https://www.info.unlp.edu.ar/">Facultad de Informática</a> and also <a href="https://ing.unlp.edu.ar/">Facultad de Ingeniería</a> of the <a href="https://unlp.edu.ar/">Universidad Nacional de La Plata (UNLP)</a>, currently halfway through my degree. I'm currently learning more about computer architecture, databases, and cybersecurity. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
   - CSS
   - Python
